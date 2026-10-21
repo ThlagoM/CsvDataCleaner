@@ -1,0 +1,6 @@
+﻿Id,Name,Email
+1,Ana Silva,ana@example.com
+2,Bruno Costa,bruno@example.com
+3,Ana Silva,ana@example.com
+4,Carlos Santos,invalid-email
+5,,maria@example.com

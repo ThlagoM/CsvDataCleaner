@@ -1,0 +1,13 @@
+﻿# Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+
+# Generated CSV outputs
+**/clean_customers.csv
+**/validation_report.csv
+
+# User-specific files
+*.user
+*.suo
